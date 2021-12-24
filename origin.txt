@@ -1,0 +1,68 @@
+Uri: https://bscapd.co/project/Dinoland/
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\index.htm
+Content Type: text/html
+
+Uri: https://bscapd.co/project/Dinoland/photos/1620986811_classify_img.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\1620986811_classify_img.png
+Content Type: image/png
+
+Uri: https://bscapd.co/project/Dinoland/photos/choose-icon-bg.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\choose-icon-bg.png
+Content Type: image/png
+
+Uri: https://bscapd.co/project/Dinoland/photos/favicon.ico
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://bscapd.co/project/Dinoland/script/bootstrap.css
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\script\bootstrap.css
+Content Type: text/css
+
+Uri: https://bscapd.co/project/Dinoland/script/materialdesignicons.css
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\script\materialdesignicons.css
+Content Type: text/css
+
+Uri: https://bscapd.co/project/Dinoland/script/all.css
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\script\all.css
+Content Type: text/css
+
+Uri: https://bscapd.co/project/Dinoland/script/style.css
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\script\style.css
+Content Type: text/css
+
+Uri: https://bscapd.co/project/Dinoland/web3.js
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\web3.js
+Content Type: application/javascript
+
+Uri: https://bscapd.co/project/Dinoland/photos/logo.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\logo.png
+Content Type: image/png
+
+Uri: https://bscapd.co/project/Dinoland/photos/united-states-of-america.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\united-states-of-america.png
+Content Type: image/png
+
+Uri: https://bscapd.co/project/Dinoland/photos/china.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\china.png
+Content Type: image/png
+
+Uri: https://bscapd.co/project/Dinoland/photos/Dinolandimg.jpg
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\Dinolandimg.jpg
+Content Type: image/jpeg
+
+Uri: https://bscapd.co/project/Dinoland/photos/1620988379_link_img.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\1620988379_link_img.png
+Content Type: image/png
+
+Uri: https://bscapd.co/project/Dinoland/photos/1620988528_link_img.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\1620988528_link_img.png
+Content Type: image/png
+
+Uri: https://bscapd.co/project/Dinoland/photos/1620988571_link_img.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\1620988571_link_img.png
+Content Type: image/png
+
+Uri: https://bscapd.co/project/Dinoland/photos/1620988336_link_img.png
+File Name: c:\Downloaded Web Sites\bscapd.co\project\Dinoland\photos\1620988336_link_img.png
+Content Type: image/png
+
